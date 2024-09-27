@@ -1,5 +1,4 @@
 ## Copyright 2022 Dumitrescu Toma-Ioan
-##
 
 *     *    *    * * *    * * * * *    *     *      * *      *
  *   *     *    *   *        *        *     *    *     *    *
